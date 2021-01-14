@@ -1,0 +1,38 @@
+body{
+  
+     background-color: darkgrey;
+}
+
+.logo{
+    font-family: Segoe Script;
+    font-weight: bolder;
+    font-size: 26px;
+   
+}
+.food{
+    font-family: Courier;
+    font-size:7px;
+}
+.imglogo{
+    display: inline-block;
+
+
+}
+.logodiv{
+    display: inline-block;
+    transform: translateX(3%);
+    
+   
+}
+.contaner{
+    position: relative;
+}
+header nav{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    
+}
+header{
+    position: relative;
+}
