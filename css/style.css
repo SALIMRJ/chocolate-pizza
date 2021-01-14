@@ -1,6 +1,6 @@
 body{
   
-     background-color: darkgrey;
+    
 }
 
 .logo{
@@ -36,3 +36,24 @@ header nav{
 header{
     position: relative;
 }
+.print{
+position: absolute;
+transform: translateX(8430%);
+margin-bottom: 3%;
+    
+}
+.divlist{
+    background-image: url('img/list-bg.png');
+text-align: center;
+    position: relative;
+    padding-top:  40px;
+}
+.divlist ul {
+    font-family: Comic Sans MS;
+    width: 200px;
+    height: 200px;
+    margin-left: 2%;
+    display: inline-block;
+}  
+
+
